@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "MyFirstAppIonic",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
