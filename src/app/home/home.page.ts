@@ -6,7 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
-
+mensagem : string = 'Olá mundo';
   constructor() {}
 
+  mudarMensagem(){
+    this.mensagem = 'Mensagem alterada';
+  }
 }
